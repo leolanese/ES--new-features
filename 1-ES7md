@@ -1,0 +1,8 @@
+### ES7 new features
+
+- Object.values / Object.entries.
+- String padding.
+- Object.getOwnPropertyDescriptors.
+- Trailing commas in function parameter lists and calls.
+- Async Functions.
+
