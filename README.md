@@ -17,7 +17,7 @@ by: <a href="http://twitter.com/LeoLaneseltd" target="_blank">Leo Lanese</a><br>
 # My Blog:<br>
 <a href="http://www.leolanese.com/blog" target="_blank">www.leolanese.com/blog</a><br>
 
-# Twitter:<br>
+# [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding):<br>
 <a href="http://twitter.com/LeoLaneseltd" target="_blank">http://twitter.com/LeoLaneseltd</a><br>
 
 # Questions / Suggestion / Recommendation ?<br>
