@@ -1,4 +1,5 @@
-# ES*_workshop
+# ES*_new features
+
 ## The road to ECMAScript New features: New solutions for old JS problems.
 A comprehensible ES7, ES8, ES9 and ES10 introdution by examples. 
 
