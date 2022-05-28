@@ -1,10 +1,9 @@
 # ES*_new features
 
 ## The road to ECMAScript New features: New solutions for old JS problems.
-A comprehensible ES7, ES8, ES9 and ES10 introdution by examples. 
+A comprehensible ES7, ES8, ES9, ES10, ES11, and ES12 EcmaScript introdution by examples by: <a href="http://twitter.com/LeoLaneseltd" target="_blank">Leo Lanese</a><br>
 
-by: <a href="http://twitter.com/LeoLaneseltd" target="_blank">Leo Lanese</a><br>
-
+# Note: Examples are 3er party
 --
 
 ### { 'Leo Lanese',
